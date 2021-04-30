@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,wght@1,100&display=swap');
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #e6e2d3;
+    z-index: 1;
+    position: relative;
+    font-family: 'Texturina', serif;
+  }
+  
+  i:hover {
+    color:#b9936c;
+  }
+  
+  /* .session-div {
+    border: 1px solid black;
+    border-radius: 30%;
+    border-width: 5px;
+    padding: 80px;
+    border-color: rgba(112, 156, 194, 0.694);
+  }*/
+  
+  .box2 {
+    width: 300px;
+    height: 200px;
+    background-color: #ddfff7;
+    position: relative;
+    box-shadow: 10px 10px 42px 0 rgba(0, 0, 0, 0.75);
+  }
+  /*
+  .box2:after,
+  .box2:before {
+    mix-blend-mode: multiply;
+    filter: none;
+    z-index: -1;
+    content: "";
+    width: calc(0% + (50px * 2));
+    height: calc(0% + (50px * 2));
+    position: absolute;
+    display: block;
+    transform: translateX(50px) translateY(-200px);
+  } */
